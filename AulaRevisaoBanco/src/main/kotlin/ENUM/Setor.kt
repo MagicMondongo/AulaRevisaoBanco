@@ -1,0 +1,5 @@
+package ENUM
+
+enum class Setor{
+    FINANCEIRO, ADMINISTRACAO, LOGISTICA, MONTAGEM
+}
